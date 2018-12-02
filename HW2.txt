@@ -1,3 +1,4 @@
 print("Hello World")
 print("hello hello")
 print("HO HO HO")
+print("done 3th lesson")
